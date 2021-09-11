@@ -1,0 +1,10 @@
+for i in  `find r* -type f`
+do
+	filename=`echo $i | cut -d'/' -f3`
+	path=`echo $i | cut -d'/' -f1,2`
+	basename=${filename::-4}
+	ext=${filename: -3}
+	hash=`echo $basename | sha256sum | cut -d' ' -f1`
+	echo cp $i anon/$path/${hash}.${ext}	
+	cp $i anon/$path/${hash}.${ext}	
+done

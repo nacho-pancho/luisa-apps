@@ -1,0 +1,81 @@
+﻿
+JJOOGG
+(Junta de Oficiales Generales)
+DE II                  		Brigada I 2
+(División Ejército II)         (Brigada Infantería 2)
+
+UUDD DE II
+(Unidades dependientes de División Ejército II)
+Bn I 4     (Batallón Infantería 4)                                         Bn C 2   (Batallón Caballería 2)
+Bn I 5     (Batallón Infantería 5)                                         Bn Ing 2  (Batallón Ingenieros 2)
+Bn I 6      (Batallón Infantería 6)
+
+DE III   (División Ejército III)       
+Brigada I 3 (Brigada Infantería 3)               Brigada C 1 (Brigada de Caballería 1)
+
+UUDD DE III
+(Unidades dependientes de División Ejérciro III)
+Bn I 7  (Batallón Infantería 7)       Reg C 5 (Regimiento Caballería 5)       
+Grp A 3 (Grupo Artillería 3)
+Bn I 8  (Batallón Infantería 8)        Reg C 3 (Regimiento Caballería 3)                                                                                                                                                                              
+Bn Ing 3 (Batallón Ingenieros 3)
+Bn I 9 (Batallón Infantería 9)          Reg C 10 (Regimiento Caballería 10)
+
+DE IV (División Ejército IV)  
+Brigada I IV (Brigada Infantería IV)  
+Brigada C2  (Brigada Caballería 2)
+
+UUDD DE IV 
+(Unidades dependientes de la División de Ejército IV)
+Bn I 10 (Batallón Infantería 10)                 Reg C 7 (Regimiento Caballería 7)
+Bn I 11  (Batallón Infantería 11)                 Reg C 8 (Regimiento Caballería 8)
+Bn I 12  (Batallón Infantería 12)                 Bn Ing 4 (Batallón Ingenieros 4)
+JCE                   (JUNTA DE COMANDANTES EN JEFE)
+             Cte J E  		Teniente Gral (Comandante en Jefe del Ejército)
+                           Cte J FA 		Brigadier Gral (Comandante en Jefe de la Fuerza Aérea)
+                           Cte J A                    Vicealmirante (Comandante en Jefe de la Armada)
+
+
+ Ejercito      Cte J E        
+Comando Gral del E      
+JJOOGG                      
+EME            (Estado Mayor del Ejército)
+EIE           (Escuela de Información del Ejército)
+Ca Con/Inf del E  (Compañía de Contrainformación del Ejército)
+SMA     (Servicio de Materiales y Armamento)
+IMES    (Instituto Militar de Estudios Superiores)
+EAS      (Escuela de Armas y Servicio)
+Escuela M  (Escuela Militar)
+
+UUDD dependientes del Cdo GE
+Reg C 1 (Regimiento de Caballería 1)                Jefe (o Cte)de Bn            Tte Cnel  
+Bn I Mec 13    (Batallón de infantería Mecanizada 13)        2do Jefe (o 2do Cte)         Mayor     
+(Jefe S 2)  Jefe de la Sección 2                                                  
+Bn I 14     (Batallón Infantería 14)
+Bn Trasm.  1 (Ing 5)	(Batallón de Transmisiones 1 Ingenieros 5)
+
+
+             	División Ejercito I                           
+ Cte Gral         EM DE I    D 1  / D2   / D3 / D4 (Estado Mayor de División Ejército I, Divisiones 1,2,3,4)
+ 2do Cte Cnel     (Jefe de OCOA)       (Segundo Comandante Coronel jefe de OCOA)                                     	
+Jefe Divisiones OCOA      Tte Cnel        (Teniente Coronel)                                                                                
+                                                                                                                                                   
+OCOA                      Div, Informaciones             Jefe un Mayor
+   Div. Operaciones                Jefe un Mayor
+
+
+
+
+Bridadas DE I    (Brigadas de División Ejército I)
+Brigada de Infantería 1                               Jefe Cnel
+Brigada de Caballería 3
+Brigada de Ing. 1
+Artilleria Divisionaria 
+
+UUDD DE I   (Unidades dependientes de División Ejército I)
+Bn I 1  (Batallón Infantería 14)       	Grp A 1 (Grupo Artillería 1)
+Bn I 2  (Batallón Infantería 2)                        Grp A 4	(Grupo Artillería 4)
+Bn I 3  (Batallón Infantería 3)                        Grp A 5 (Grupo Artillería 5)
+Bn C 4  (Batallón Caballería 4)                       Grp A A A 1	(Grupo de Artillería Anti Aérea 1)
+Bn C 6  (Batallón Caballería 6)                         Bn Ing 1 (Batallón Ingenieros 1)
+Bn C 9  (Batallón Caballería 9)       

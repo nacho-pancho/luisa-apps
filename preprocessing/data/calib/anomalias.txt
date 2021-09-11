@@ -1,0 +1,4 @@
+- En la categoría 5 hay unas imágenes del rollo 1713 que en realidad son bastante malas.
+- En la categoría 5, la imagen r1060-004 da un score horrible en el ajuste automático, pero Levenhstein da bien.
+  Eso es porque esa imagen es 90% siglas y números, no tiene casi palabras. 
+

@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Segmentar Lineas",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole",
+            "args": [ 
+                "--prefix","../results/alin",
+                "--list","../data/80sel.list",
+                "--out-dir","../results/lineas",
+                "--debug-dir","../results/lineas-debug",
+                "--out-file","../results/80sel.h5" ]
+        }
+    ]
+}

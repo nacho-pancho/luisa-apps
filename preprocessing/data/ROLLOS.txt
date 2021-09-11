@@ -1,0 +1,68 @@
+#AÑO, NUMERO, ORIGEN, NOMBRE_CORTO, NOMBRE_LARGO
+1972, 1021, DGID, r1021, r1021 dgid re 720001 7205296 - ppi del año 1972
+0000, 1022, DGID, r1022, r1022 dgid re 5299.72 al 5578.72
+1984,  412, DGID, r412, r412 - Doc.´84 con registros de entrada del nº 001 al 147
+1980,  418, DGID., r418, r418 Documentos del año 1980 registro deentrada del Nº 148 al 639
+1980,  419, DGID, r419, r419 Documentos del año 1980 registro deentrada del Nº 641 al 959
+1980,  420, DGID, r420, r420 Documentos del año 1980 registro de entrada del Nº 960 al 1170
+1984,  421, DGID, r421, r421 - Doc.´984, con registro de entrada del nº 1171 al 1322
+1980,  425, DGID, r425, r425 Documentos correspondiente al año 1980 del R. E. 1324 al 1571
+1980,  426, DGID, r426, r426 Documentos correspondiente al año 1980 del R. E. 1572 al 17.774
+1980,  428, DGID, r428, r428 Documentos correspondiente al año 1980 del R. E. 1775 al 2172
+1979,  431, DGID, r431, r431 Documentos correspondientes al año 1979 del R.E. 001 al 385
+1979,  433, DGID, r433, r433 documentos del año 1979 con registro de entrada del Nº 386 al 830
+1979,  434, DGID, r434, r434 documentos del año 1979 con registro de entrada del Nº 832 al 1257
+1979,  437, DGID, r437, r437 r Documentos correspondientes al año 1979 del R.E. 1.258 al 1.659
+1979,  438, DGID, r438, r438 Documentos correspondientes al año 1979 con R.E. del 1.660 al 2.223
+1979,  439, DGID, r439, r439 r Documentos correspondientes al año 1979 del R.E. 2.224 al 2.441
+1979,  440, DGID, r440, r440 Documentos correspondientes al año 1979 con R.E. del 2.442 al 2.572
+1979,  444, DGID, r444, r444 Documentos correspondientes al año 1979 con R.E. del 2.573 al 2.655
+1979,  447, DGID, r447, r447 - doc´79 - r.e. 2656 al 2809
+1978,  453, DGID, r453, r453 r Documentos correspondientes al año 1978 del R.E. 0001 al 605
+1978,  454, DGID, r454, r454 Documentos correspondientes al año 1978 con R.E. del 607 al 1.032
+1978,  458, DGID, r458, r458 Documentos correspondientes al año 1978 con R.E. del 1.034 al 1.363
+1978,  460, DGID, r460, r460 Documentos correspondientes al año 1978 con R.E. del 1.364 al 1.768
+1978,  462, DGID, r462, r462 - doc´78 - r.e. 1772 al 1857
+1977,  573, DGID, r573, r573 Documentos correspondientes al año 1977 con R.E. del 001 al 365
+1977,  576, DGID, r576, r576 documentos correspondientes al año 1977 del R.E. 366 al 910
+1977,  577, DGID, r577, r577 documentos correspondientes al año 1977 del R.E. 911 al 1284
+1976,  579, DGID, r579, r579 documentos correspondientes al año 1976 del R.E. 001 al 366
+0000,  580, ?, r580, r580
+0000,  589, ?, r589, r589 Doc 1977
+0000,  590, ?, r590, r590 Doc 1976
+0000,  602, ?, r602, r602
+1976,  611, DGID, r611, r611 documentos del año 1976 R.E. 1376 al 1715
+1975,  629, DGID, r629, r629 documentos del año 1975 R.E. 001 al 670
+1975,  640, DGID, r640, r640 documentos del año 1975 R.E. 671 al 1133
+1975,  643, DGID, r643, r643 documentos del año 1975 R.E. 1134 al 1697
+1975,  677, DGID, r677, r677 Documentos del año 1975 del R.E. 1698 al 2207
+0000,  685, OCOA, r685, r685 OCOA Carpeta de detenidos
+1975,  716, DGID, r716, r716 r Documentos correspondientes al año 1975  R.E. 2208 al 2332
+1974,  750, DGID, r750, r750 Documentos del año 1974 R.E. 0001 a 0840
+1974,  754, DGID, r754, r754 Documentos del año 1974 R.E. 0841 a 1636
+1974,  794, DGID, r794, r794 documentos del año 1974 con R.E. 1637 al 2570
+1974,  804, DGID, r804, r804 doc´74 r.e. 2571 a 3334
+1974,  805, DGID, r805, r805 - Documentos de 1974 -  R.E. 3335 al 3390
+1973,  826, DGID, r826, r826 - Documentos de 1973 R.E. 001 al 820
+1973,  853, DGID, r853, r853 Documentos del DPTO I D.G.I.D. año 1973 R.E. 0821 a 1568
+0000,  855, ESMACO, r855, r855 documentación del es.ma.co. - 2815´87
+0000,  856, ESMACO, r856, r856 documentación del es.ma.co. - 2815´87 2566 4982
+0000,  857, ESMACO, r857, r857 documentación del es.ma.co. - 2815´87 4983 7315
+0000,  862, ESMACO, r862, r862 documentacion del esmaco r.e. 2815-77 fs 73126-9685
+0000,  863, ESMACO, r863, r863 documentacion del esmaco r.e. 2815-77 fs 9686-12136
+0000,  864, ESMACO, r864, r864 documentacion del esmaco r.e. 2815-87 fs 12137-14470
+0000,  865, ESMACO, r865, r865 documentacion del esmaco r.e. 2815-87 fs 14471-16979
+0000,  866, ESMACO, r866, r866 documentacion del esmaco r.e. 2815-87 fs 16980-19381
+0000,  867, ESMACO, r867, r867 documentacion del esmaco r.e. 2815-87 fs 19382-21868
+0000,  868, ESMACO, r868, r868 documentacion del esmaco r.e. 2815-87 fs 21869-24415
+1973,  869, DGID, r869, r869 Documentacion del año 1973 DPTO I D.G.I.D. R.E. 1569 a 2604
+0000,  880, ESMACO, r880, r880 documentos del esmaco r.e. nº 2815-87 fs. 31497-33979
+0000,  881, ESMACO, r881, r881 documentacion del esmaco r.e. 2815-87 fs 33980-36234
+0000,  884, ESMACO, r884, r884 documentacion del esmaco r.e. 2815-87 fs 36235-38630
+0000,  885, ESMACO, r885, r885 documentación del esmaco r.e. nº 2815-87 fs. 38631-41068
+0000,  886, ESMACO, r886, r886 documentación del esmaco r.e. 2815-87 fs. 41069-43831
+0000,  888, ESMACO, r888, r888 documentos del es.ma.co. re. 2815 del 87, fs. 43.832 al 46.341
+0000,  889, ESMACO, r889, r889 documentos del es.ma.co. re. 2815 del 87, fs. 46.342 al 48.885
+1973,  927, DGID, r927, r927 Doc. del año 1973 del Dpto. I D.G.I.D. R.E. 2605 al 3602
+1973,  938, DGID, r938, r938 Documentos del año 1973 del Dpto. I de la D.G.I.D. R.E. 3.603 a 4.358
+1973,  940, DGID, r940, r940 Doc. del año 1973 del Dpto. I D.G.I.D. R.E. 4359-73 a 4738-73
